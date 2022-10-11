@@ -1,0 +1,44 @@
+                                              
+                                              Welcome to our Shop
+                                           *************************
+          
+                   # Grains & Bread                                  # Dairy & Eggs
+          
+            Items                    Price                    Items                  Price 
+        ..............          ...............            ...........           .............
+
+        1. Rice                   70 Taka/kg               15. Eggs              40 Taka/4 pcs 
+        2. Wheat                  40 Taka/kg               16. Milk              80 Taka/liter
+        3. Flour                  35 Taka/kg               17. Cheese           160 Taka/200 gm
+        4. Bread                  60 Taka/500 gm           18. Yogurt           100 Taka/500 ml              
+        5. Breakfast Cereal       90 Taka/kg
+
+                                                                       # Produce
+                    # Meat & Fish                                                                  
+                                                              Items                  Price
+            Items                    Price                ............           .............     
+         ..............         ...............            
+                                                           19. Onions              45 Taka/kg
+        6. Chicken               120 Taka/500 gm           20. Garlic              35 Taka/500 gm
+        7. Beef                  300 Taka/500 gm           21. Ginger              40 Taka/500 gm
+        8. Mutton                400 Taka/500 gm           22. Tomato              50 Taka/kg
+        9. Ilish                 800 Taka/kg               23. Potato              20 Taka/kg
+       10. Tuna Can              600 Taka/500 gm           24. Red Capcicum       135 Taka/250 gm
+                                                           25. Green Capcicum      70 Taka/250 gm
+                                                           
+                                                                      # Condiments
+                     # Oil & Fat                                                                       
+                                                              Items                  Price  
+            Items                    Price                 ............          .............
+         ..............         ................    
+                                                           26. Sugar                75 Taka/kg
+       11. Soybean Oil           140 Taka/liter            27. Salt                 32 Taka/kg
+       12. Mustard Oil           200 Taka/liter            28. Pepper               55 Taka/50 gm
+       13. Olive Oil             700 Taka/liter            29. Honey               200 Taka/250 gm
+       14. Butter                200 Taka/200 gm           30. Vinegar              60 Taka/650 ml
+
+                      Please enter item number to place your order.
+                      Enter '0' in your order to end the order process and see your bills.
+                   
+
+
